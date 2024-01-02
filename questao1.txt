@@ -1,0 +1,17 @@
+Cite qual é a utilidade de cada um dos pilares do pensamento computacional e como podem ser usados em problemas reais não relacionados a computadores:
+
+1- Decomposição: é quando pegamos um problema muito grande e complexo, e quebramos o mesmo em pequenas partes para que ele se torne mais fácil de resolver.
+
+Ex: Planejar uma viagem, se pensarmos como um todo, pode ser algo muito complexo, mas, podemos dividir em partes, como pontos turísticos que desejamos conhecer, restaurantes que queremos ir, amigos e familiares que iremos visitar. Dessa forma fica bem mais fácil de fazer o planejamento.
+
+2- Abstração: essa é a parte onde faz uma filtragem dos dados que são gerados após a decomposição, e a partir dessa filtragem, são verificados e separados os de maior importância para a resolução do problema.
+
+Ex: Ao conhecer uma pessoa, precisamos saber apenas do seu nome e no máximo um dos sobrenomes, já que para esse caso, o nome completo não seria uma informação importante.
+
+3- Reconhecimento de padrões: é o momento em que comparamos os problemas e verificamos se já resolvemos ou se existe alguma solução para um problema como ele, para que caso já tenha feito isso, utilizar a mesma solução.
+
+Ex: Eu quero fazer um bolo e vou pesquisar se já existe alguma receita do tipo de bolo que eu quero, caso já exista alguma solução para o que eu pretendo fazer, é só utiliza-la. Dessa forma irá facilitar todo o processo, já que não irei precisar criar tudo do zero.
+
+4- Lógica computacional:  etapa onde ocorre todo o passo a passo para a resolução do problema.
+
+Ex: Para se fazer um bolo de cenoura, a receita é toda a lógica que devemos seguir para o seu preparo. 
